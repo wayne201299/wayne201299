@@ -1,11 +1,17 @@
 ### Hi there 👋
 
+前端工程師，三年網頁開發經驗，擅長Angular及Vallina JS
+
+🔭 I’m currently working on ... 一天一篇技術文章
+
+
+
 <!--
 **wayne201299/wayne201299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
