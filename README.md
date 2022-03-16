@@ -9,13 +9,13 @@ Hi there 👋 , I'm Alan，
 * Java | Srping
 * Visual Studio code | Eclipse | Git
 
-## 📔 My note
+### 📔 My note
 
 * 個人技術部落格 https://wayne201299.github.io/
 
 * Angular 筆記 https://hackmd.io/@Alan201299/HJPA0aSZ9/%2FK2dxWaBVTzSSkuH_YksPwA
 
-## 🥅 2022 Goal!!!!!!
+### 🥅 2022 Goal!!!!!!
 * 個人網站架設
 * 加入產品公司
 * 學開車
