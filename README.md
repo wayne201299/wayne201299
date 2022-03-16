@@ -1,7 +1,8 @@
 🔭 I’m currently working on ... 一天一篇技術文章
 # About me
 Hi there 👋 , I'm Alan，
-* front-end web developer
+* Front-end web developer
+* Basketball & swimming lover
 
 ### 🛠 TechStack
 * Angular | JavaScript | HTML | CSS | Bootstrap | Tailwind CSS
