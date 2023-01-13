@@ -7,7 +7,7 @@ Hi there 👋 , I'm Alan，
 ### 🛠 TechStack
 * Angular | JavaScript | HTML | CSS | Bootstrap | Tailwind CSS
 * Java | Srping
-* Visual Studio code | Eclipse | Git
+* VScode | Eclipse | Git
 
 ### 📔 Projects
 
@@ -15,12 +15,10 @@ Hi there 👋 , I'm Alan，
 
 * Angular note https://hackmd.io/@Alan201299/HJPA0aSZ9/%2FK2dxWaBVTzSSkuH_YksPwA
 
-### 🥅 2022 Goal!!!!!!
+### 🥅 2023 Goal!!!!!!
 - [ ] learn to drive
 - [ ] learn investment
 - [x] Personal blog 
-- [x] join a product company
-
 
 <!--
 **wayne201299/wayne201299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
