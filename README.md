@@ -5,7 +5,7 @@ Hi there 👋 , I'm Alan，
 * 🏀 Basketball & 🏊‍♂️ swimming lover
 
 ### 🛠 TechStack
-* Angular | JavaScript | HTML | CSS | Bootstrap | Tailwind CSS | P
+* Angular | JavaScript | HTML | CSS | Bootstrap | Tailwind CSS | PrimNG
 * Java | Srping
 * VScode | Eclipse | Git
 
