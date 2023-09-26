@@ -11,9 +11,8 @@ Hi there 👋 , I'm Alan，
 
 ### 📔 Projects
 
-* Tech blog https://wayne201299.github.io/
-
-* Angular note https://hackmd.io/@Alan201299/HJPA0aSZ9/%2FK2dxWaBVTzSSkuH_YksPwA
+* [Tech blog](https://code-surfing.coderbridge.io/)
+* [Dr .Talk](https://dksh-healthcare.drtalk.com.tw/)
 
 ### 🥅 2023 Goal!!!!!!
 - [ ] learn to drive
