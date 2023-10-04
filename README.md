@@ -14,11 +14,6 @@ Hi there 👋 , I'm Alan，
 * [Tech blog](https://code-surfing.coderbridge.io/)
 * [Dr .Talk](https://dksh-healthcare.drtalk.com.tw/)
 
-### 🥅 2023 Goal!!!!!!
-- [ ] learn to drive
-- [ ] learn investment
-- [x] Personal blog 
-
 <!--
 **wayne201299/wayne201299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
