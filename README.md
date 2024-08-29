@@ -13,7 +13,7 @@ Hi there 👋 , I'm Alan，
 
 * [Tech blog](https://code-surfing.coderbridge.io/)
 * [Dr .Talk](https://dksh-healthcare.drtalk.com.tw/)
-* [樂天行網銀](https://www.rakuten-bank.com.tw/ebank/cgn/cgnot0001/010)
+* [樂天行動網路銀行](https://www.rakuten-bank.com.tw/ebank/cgn/cgnot0001/010)
 
 <!--
 **wayne201299/wayne201299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
